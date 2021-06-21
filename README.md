@@ -5,3 +5,9 @@ Sample code to find the difference between the diagonals in a 3x3 matrix
 * finds the sum of left diagonal  
 * finds the sum of right diagonal
 * prints the difference between right diagonal and left diagonal
+
+### sample output of the code
+```
+python3 absolute diagonal difference.py
+6
+```
